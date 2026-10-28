@@ -301,3 +301,5 @@ Deploy your static site using [Kinsta](https://kinsta.com/static-site-hosting/) 
 ## xmit Static Site Hosting
 
 Deploy your static site using [xmit](https://xmit.co) by following this [guide](https://xmit.dev/posts/vite-quickstart/).
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=static-deploy.md

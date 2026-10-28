@@ -6,3 +6,5 @@ const external = require('@vitejs/test-dep-esm-external')
 const externalResult = external.hasOwnProperty('foo') ? 'ok' : 'error'
 const externalDummyNodeBuiltinResult = `${externalDummyNodeBuiltin()} ${externalDummyNodeBuiltin.bar}`
 module.exports = { externalResult, externalDummyNodeBuiltinResult }
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=index.js

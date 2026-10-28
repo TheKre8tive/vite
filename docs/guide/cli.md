@@ -130,3 +130,5 @@ vite preview [root]
 | `-f, --filter <filter>`   | Filter debug logs (`string`)                                                                                           |
 | `-m, --mode <mode>`       | Set env mode (`string`)                                                                                                |
 | `-h, --help`              | Display available CLI options                                                                                          |
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=cli.md

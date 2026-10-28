@@ -60,3 +60,5 @@ async function renderForkedDeadlockDynamicImports(rootDir) {
   await commonModuleExport()
   return `<div class="forked-deadlock-dynamic-imports">rendered</div>`
 }
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=app.js

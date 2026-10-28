@@ -17,3 +17,5 @@ test('async-proxy-bypass-with-error', async () => {
     expect(serverLogs.join('\n')).toContain('bypass error')
   })
 })
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=proxy-bypass.spec.ts

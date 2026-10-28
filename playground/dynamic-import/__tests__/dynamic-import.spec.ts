@@ -192,3 +192,5 @@ test.runIf(isBuild)('should not preload for non-analyzable urls', () => {
   // should match e.g. await import(e.jss);o(".view",p===i)
   expect(js).to.match(/\.jss\);/)
 })
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=dynamic-import.spec.ts

@@ -68,3 +68,5 @@ export async function updateTemplateVersions(): Promise<void> {
     await fs.writeFile(pkgPath, JSON.stringify(pkg, null, 2) + '\n')
   }
 }
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=releaseUtils.ts

@@ -230,3 +230,5 @@ test('relative path in html asset', async () => {
   expect(await page.textContent('.relative-js')).toMatch('hello')
   expect(await getColor('.relative-css')).toMatch('red')
 })
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=assets-runtime-base.spec.ts

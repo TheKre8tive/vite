@@ -15,3 +15,5 @@ test('handle nested package', async () => {
   expect(await page.textContent('.absolute-f')).toBe('F@2.0.0')
   expect(await page.textContent('.self-referencing')).toBe('true')
 })
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=nested-deps.spec.ts

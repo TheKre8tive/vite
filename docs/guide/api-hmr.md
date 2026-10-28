@@ -233,3 +233,5 @@ See [Client-server Communication](/guide/api-plugin.html#client-server-communica
 If you'd like to learn more about how to use the HMR API and how it works under-the-hood. Check out these resources:
 
 - [Hot Module Replacement is Easy](https://bjornlu.com/blog/hot-module-replacement-is-easy)
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=api-hmr.md

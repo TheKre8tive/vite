@@ -9,3 +9,5 @@ import type * as Terser from 'terser'
 
 export type TerserMinifyOptions = Terser.MinifyOptions
 export type TerserMinifyOutput = Terser.MinifyOutput
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=terserOptions.d.ts

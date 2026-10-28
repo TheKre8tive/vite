@@ -222,3 +222,5 @@ export function setClientErrorHandler(
     socket.end(`HTTP/1.1 ${msg}\r\n\r\n`)
   })
 }
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=http.ts

@@ -212,3 +212,5 @@ The different values of `NODE_ENV` and mode also reflect on its corresponding `i
 
 The main benefit with `NODE_ENV=...` in the command is that it allows Vite to detect the value early. It also allows you to read `process.env.NODE_ENV` in your Vite config as Vite can only load the env files once the config is evaluated.
 :::
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=env-and-mode.md

@@ -36,3 +36,5 @@ declare module 'postcss-import' {
 declare var __vite_profile_session: import('node:inspector').Session | undefined
 // eslint-disable-next-line no-var
 declare var __vite_start_time: number | undefined
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=shims.d.ts

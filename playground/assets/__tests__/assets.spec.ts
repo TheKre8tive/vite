@@ -708,3 +708,5 @@ test.runIf(isBuild)('assets inside <template> is rewrote', async () => {
     /<img class="template" src="\/foo\/bar\/assets\/asset-[-\w]+\.png" \/>/,
   )
 })
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=assets.spec.ts

@@ -72,3 +72,5 @@ test.runIf(isServe)('regenerate CSS and HMR (relative path)', async () => {
   )
   await expect.poll(() => getColor(el)).toBe('rgb(8, 145, 178)')
 })
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=tailwind-v3.spec.ts

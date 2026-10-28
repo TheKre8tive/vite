@@ -15,3 +15,5 @@ test.runIf(!isBuild)('metadata', async () => {
   expect(Object.keys(meta.optimized)).not.toContain('vue')
   expect(Object.keys(meta.optimized)).not.toContain('vuex')
 })
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=optimize-deps-no-discovery.spec.ts

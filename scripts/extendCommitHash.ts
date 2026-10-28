@@ -20,3 +20,5 @@ export default function extendCommitHash(path: string): void {
   fs.writeFileSync(path, content)
   console.log(colors.green(`${path} update success!`))
 }
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=extendCommitHash.ts

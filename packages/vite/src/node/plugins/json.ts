@@ -149,3 +149,5 @@ export function extractJsonErrorPosition(
     ? Math.max(parseInt(errorMessageList[1], 10) - 1, 0)
     : undefined
 }
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=json.ts

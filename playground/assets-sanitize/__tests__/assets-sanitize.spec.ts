@@ -30,3 +30,5 @@ test.runIf(!isBuild)('denied .env', async () => {
   expect(await page.textContent('.unsafe-dotenv')).toBe('403')
   expect(await page.textContent('.unsafe-dotenv-double-slash')).toBe('200') // SPA fallback
 })
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=assets-sanitize.spec.ts

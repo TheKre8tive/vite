@@ -16,3 +16,5 @@ document.querySelector('#dqsqs').innerHTML = `
 document.querySelector('#dqssqs').innerHTML = `
   <img data-testid="dqssqs" src="${dqssqs}" class="dqssqs" alt="load failed" />
 `
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=main.js

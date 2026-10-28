@@ -100,3 +100,5 @@ describe('running module runner inside a worker and using the ModuleRunnerTransp
     expect(output.error).toContain('Error: Unknown invoke error')
   })
 })
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=server-worker-runner.invoke.spec.ts

@@ -43,3 +43,5 @@ Check out [awesome-vite](https://github.com/vitejs/awesome-vite#plugins) - you c
 ## Rollup Plugins
 
 [Vite plugins](../guide/api-plugin) are an extension of Rollup's plugin interface. Check out the [Rollup Plugin Compatibility section](../guide/api-plugin#rollup-plugin-compatibility) for more information.
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=index.md

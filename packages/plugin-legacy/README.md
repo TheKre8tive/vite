@@ -197,3 +197,5 @@ When using the `regenerator-runtime` polyfill, it will attempt to use the `globa
 - [Vue CLI modern mode](https://cli.vuejs.org/guide/browser-compatibility.html#modern-mode)
 - [Using Native JavaScript Modules in Production Today](https://philipwalton.com/articles/using-native-javascript-modules-in-production-today/)
 - [rollup-native-modules-boilerplate](https://github.com/philipwalton/rollup-native-modules-boilerplate)
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=README.md

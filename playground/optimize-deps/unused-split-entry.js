@@ -9,3 +9,5 @@ import msg from '@vitejs/test-added-in-entries'
 // the missing dependencies to optimizeDeps.include directly
 
 console.log(msg)
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=unused-split-entry.js

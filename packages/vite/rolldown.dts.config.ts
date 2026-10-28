@@ -412,3 +412,5 @@ function escapeRegex(str: string): string {
 function unique<T>(arr: T[]): T[] {
   return Array.from(new Set(arr))
 }
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=rolldown.dts.config.ts

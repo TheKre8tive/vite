@@ -23,3 +23,5 @@ export type RollupPluginHooks = NonNeverKeys<RollupPluginHooksContext>
 
 export type RequiredExceptFor<T, K extends keyof T> = Pick<T, K> &
   Required<Omit<T, K>>
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=typeUtils.ts

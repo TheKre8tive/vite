@@ -290,3 +290,5 @@ The CLI commands `$ vite dev` and `$ vite preview` can also be used for SSR apps
 :::tip Note
 Use a post hook so that your SSR middleware runs _after_ Vite's middlewares.
 :::
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=ssr.md

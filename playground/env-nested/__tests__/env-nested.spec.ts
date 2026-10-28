@@ -14,3 +14,5 @@ test('mode file override', async () => {
 test('should not load parent .env file', async () => {
   expect(await page.textContent('.parent-env')).not.toBe('dont_load_me')
 })
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=env-nested.spec.ts

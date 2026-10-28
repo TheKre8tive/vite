@@ -43,3 +43,5 @@ export type InferCustomEventPayload<T extends string> =
  * provides types for names of built-in Vite events
  */
 export type CustomEventName = keyof CustomEventMap | (string & {})
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=customEvent.d.ts

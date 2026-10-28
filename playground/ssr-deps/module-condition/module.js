@@ -2,3 +2,5 @@
 // BUT this doesn't matter in practice as the `module` condition is not used in node.
 // hence SSR should not load this file.
 export default '[fail] should not load me'
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=module.js

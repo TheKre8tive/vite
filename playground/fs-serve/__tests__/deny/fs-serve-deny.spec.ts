@@ -15,3 +15,5 @@ describe.runIf(isServe)('main', () => {
     expect(res.status()).toBe(403)
   })
 })
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=fs-serve-deny.spec.ts

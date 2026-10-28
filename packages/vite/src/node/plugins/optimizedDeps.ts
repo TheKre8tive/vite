@@ -122,3 +122,5 @@ export function throwFileNotFoundInOptimizedDep(id: string): never {
   // send a 404 status code not found
   throw err
 }
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=optimizedDeps.ts

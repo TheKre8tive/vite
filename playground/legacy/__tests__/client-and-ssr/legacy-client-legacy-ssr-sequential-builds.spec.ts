@@ -15,3 +15,5 @@ describe.runIf(isBuild)('client-legacy-ssr-sequential-builds', () => {
     expect(await page.textContent('#mode')).toMatch('test')
   })
 })
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=legacy-client-legacy-ssr-sequential-builds.spec.ts

@@ -19,3 +19,5 @@ test.runIf(isBuild)('no minifySyntax', () => {
   expect(cssContent).toContain('color:#ff0000')
   expect(cssContent).not.toContain('/*! explicit comment */')
 })
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=minify.spec.ts

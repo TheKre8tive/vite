@@ -25,3 +25,5 @@ test.runIf(isBuild)('should compile away the import for build', async () => {
   const file = findAssetFile('index')
   expect(file).not.toMatch('import')
 })
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=data-uri.spec.ts

@@ -28,3 +28,5 @@ test.runIf(isServe)('postcss plugins in different dir', async () => {
     await server.close()
   }
 })
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=css-postcss-plugins-different-dir.spec.ts

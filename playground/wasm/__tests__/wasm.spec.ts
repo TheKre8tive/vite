@@ -31,3 +31,5 @@ test('?url', async () => {
 test('should work when wasm in worker', async () => {
   await expect.poll(() => page.textContent('.worker-wasm .result')).toMatch('3')
 })
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=wasm.spec.ts

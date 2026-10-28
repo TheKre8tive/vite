@@ -24,3 +24,5 @@ describe.runIf(isBuild)('build', () => {
     expect(await page.textContent('#required-vue-version')).toBe('3.4.38')
   })
 })
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=external.spec.ts

@@ -43,3 +43,5 @@ test.runIf(isBuild)('rebuilds styles only entry on change', async () => {
   expect(reRenderedCssLegacyFile).toContain('#ffb6c1')
   expect(findAssetFile(/polyfills-legacy-.+\.js/, 'watch')).toBeTruthy()
 })
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=legacy-styles-only-entry-watch.spec.ts

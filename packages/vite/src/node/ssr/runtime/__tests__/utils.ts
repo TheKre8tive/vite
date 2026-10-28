@@ -135,3 +135,5 @@ export function resolvePath(baseUrl: string, path: string): string {
   const filename = fileURLToPath(baseUrl)
   return resolve(dirname(filename), path).replace(/\\/g, '/')
 }
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=utils.ts

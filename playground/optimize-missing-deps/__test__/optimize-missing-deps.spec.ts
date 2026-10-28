@@ -14,3 +14,5 @@ test.runIf(!isBuild)('optimize', async () => {
   const aboutHtml = await (await fetch(url)).text()
   expect(aboutHtml).toContain('Server')
 })
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=optimize-missing-deps.spec.ts

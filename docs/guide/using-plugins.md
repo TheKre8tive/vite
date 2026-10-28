@@ -82,3 +82,5 @@ export default defineConfig({
 ## Building Plugins
 
 Check out the [Plugins API Guide](./api-plugin.md) for documentation about creating plugins.
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=using-plugins.md

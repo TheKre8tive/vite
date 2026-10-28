@@ -415,3 +415,5 @@ describe('parse negatives', async () => {
     ).toMatchInlineSnapshot('[Error: Option "base" cannot start with "!"]')
   })
 })
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=parse.spec.ts

@@ -87,3 +87,5 @@ If the project uses `main` as the default branch, suffix the project repo with `
 ```bash
 npx degit user/project#main my-project
 ```
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=README.md

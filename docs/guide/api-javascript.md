@@ -450,3 +450,5 @@ Pre-processes `.css`, `.scss`, `.sass`, `.less`, `.styl` and `.stylus` files to 
 The pre-processor used is inferred from the `filename` extension. If the `filename` ends with `.module.{ext}`, it is inferred as a [CSS module](https://github.com/css-modules/css-modules) and the returned result will include a `modules` object mapping the original class names to the transformed ones.
 
 Note that pre-processing will not resolve URLs in `url()` or `image-set()`.
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=api-javascript.md

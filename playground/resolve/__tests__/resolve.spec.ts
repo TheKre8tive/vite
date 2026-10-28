@@ -256,3 +256,5 @@ test.runIf(isBuild)('public dir is not copied', async () => {
 test('import utf8-bom package', async () => {
   expect(await page.textContent('.utf8-bom-package')).toMatch('[success]')
 })
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=resolve.spec.ts

@@ -18,3 +18,5 @@ describe('module runner hmr works as expected', async () => {
     expect(mod.hmr).toBeUndefined()
   })
 })
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=server-no-hmr.spec.ts

@@ -933,3 +933,5 @@ See [2.1.5 changelog](https://github.com/vitejs/vite/blob/v2.1.5/packages/vite/C
 
 ### 2.0.x (2021-02-16 - 2021-03-02)
 See [2.0.5 changelog](https://github.com/vitejs/vite/blob/v2.0.5/packages/vite/CHANGELOG.md)
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=CHANGELOG.md

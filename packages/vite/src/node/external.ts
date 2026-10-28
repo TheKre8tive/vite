@@ -151,3 +151,5 @@ export function canExternalizeFile(filePath: string): boolean {
   // only external js imports
   return !ext || ext === '.js' || ext === '.mjs' || ext === '.cjs'
 }
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=external.ts

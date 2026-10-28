@@ -15,3 +15,5 @@ describe.runIf(isBuild)('legacy-ssr', () => {
     expect(await page.textContent('#env')).toMatch('false')
   })
 })
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=legacy-ssr.spec.ts

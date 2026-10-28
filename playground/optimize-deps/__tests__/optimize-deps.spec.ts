@@ -354,3 +354,5 @@ test('dependency with external sub-dependencies', async () => {
     .poll(() => page.textContent('.dep-cjs-with-external-deps-node-builtin'))
     .toBe('foo bar')
 })
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=optimize-deps.spec.ts

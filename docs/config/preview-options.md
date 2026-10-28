@@ -96,3 +96,5 @@ See [`server.cors`](./server-options#server-cors) for more details.
 - **Type:** `OutgoingHttpHeaders`
 
 Specify server response headers.
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=preview-options.md

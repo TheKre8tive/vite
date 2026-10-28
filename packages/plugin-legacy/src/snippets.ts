@@ -12,3 +12,5 @@ export const detectModernBrowserCode = `${detectModernBrowserDetector};window.${
 export const dynamicFallbackInlineCode = `!function(){if(window.${detectModernBrowserVarName})return;console.warn("vite: loading legacy chunks, syntax error above and the same error below should be ignored");var e=document.getElementById("${legacyPolyfillId}"),n=document.createElement("script");n.src=e.src,n.onload=function(){${systemJSInlineCode}},document.body.appendChild(n)}();`
 
 export const modernChunkLegacyGuard = `export function __vite_legacy_guard(){${detectModernBrowserDetector}};`
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=snippets.ts

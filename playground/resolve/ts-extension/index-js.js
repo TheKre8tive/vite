@@ -8,3 +8,5 @@ export const msg =
   msgJs && msgJsx && msgTsx && msgCjs && msgMjs
     ? '[success] use .js / .jsx / .cjs / .mjs extension to import a TS modules'
     : '[fail]'
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=index-js.js

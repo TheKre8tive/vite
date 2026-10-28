@@ -228,3 +228,5 @@ export const viteAliasCustomResolver: ResolverFunction = async function (
   const resolved = await this.resolve(id, importer, options)
   return resolved || { id, meta: { 'vite:alias': { noResolved: true } } }
 }
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=index.ts
